@@ -74,4 +74,4 @@
 			str = str.toString();
 			return str.replace(/\s/g,'');
 		}
-	}()
+	}();
