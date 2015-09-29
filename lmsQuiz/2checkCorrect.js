@@ -1,4 +1,4 @@
-javascript:(
+(
 	function(){
 		var test = true;
 		var finish = true;
@@ -82,4 +82,4 @@ javascript:(
 			return str.replace(/\s/g,'');
 		}
 	}()
-);
+)

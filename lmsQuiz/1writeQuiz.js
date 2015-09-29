@@ -1,4 +1,4 @@
-javascript:(
+(
 	function(){
 		var test = true;
 		var submit = true;
@@ -76,4 +76,4 @@ javascript:(
 			return str.replace(/\s/g,'');
 		}
 	}()
-);
+)
