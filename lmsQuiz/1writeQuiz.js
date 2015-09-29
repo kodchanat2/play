@@ -1,4 +1,3 @@
-(
 	function(){
 		var test = true;
 		var submit = true;
@@ -76,4 +75,3 @@
 			return str.replace(/\s/g,'');
 		}
 	}()
-)
