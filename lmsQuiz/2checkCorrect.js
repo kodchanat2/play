@@ -1,4 +1,4 @@
-	function(){
+
 		var test = true;
 		var finish = true;
 		var cookie = true;
@@ -80,4 +80,3 @@
 			str = str.toString();
 			return str.replace(/\s/g,'');
 		}
-	}()

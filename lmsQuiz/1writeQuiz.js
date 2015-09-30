@@ -1,4 +1,4 @@
-	function(){
+
 		var test = true;
 		var submit = true;
 		var splitText = "&$#,";
@@ -74,4 +74,3 @@
 			str = str.toString();
 			return str.replace(/\s/g,'');
 		}
-	}();
