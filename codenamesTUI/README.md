@@ -5,7 +5,9 @@ codenames with TUI editions
 ## How to use
 Open **'console'** on codenames page
 (windows: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> Mac: <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>i</kbd>)
+
 copy this and paste to your console : 
+
 ```javascript
 var link = document.createElement( "style" );
 link.textContent = `.gray .card-character {
@@ -20,4 +22,4 @@ link.textContent = `.gray .card-character {
 document.body.appendChild( link );
 
 ```
-then close your console panel and ซาหนูกกกกกก
+press <kbd>Enter</kbd> then close your console panel and ซาหนูกกกกกก
