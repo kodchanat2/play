@@ -1,3 +1,9 @@
-.card-character {
-  background-image: url("https://rawgit.com/kodchanat2/play/master/codenamesTUI/img/tui.png") !important;
+.gray .card-character {
+  background-image: url("https://imgur.com/xiztCUy.png") !important;
+}
+.blue .card-character {
+  background-image: url("https://imgur.com/sHrF7re.png") !important;
+}
+.red .card-character {
+  background-image: url("https://imgur.com/keXElOt.png") !important;
 }
