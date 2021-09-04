@@ -4,7 +4,7 @@ codenames with TUI editions
 
 ## How to use
 Open **'console'** on codenames page
-(windows: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> Mac: <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>i</kbd>)
+(windows: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> Mac: <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>i</kbd>)
 
 copy this and paste to your console : 
 
