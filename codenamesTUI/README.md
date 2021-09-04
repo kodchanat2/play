@@ -16,6 +16,9 @@ link.textContent = `.gray .card-character {
 .blue .card-character {
   background-image: url("https://imgur.com/sHrF7re.png") !important;
 }
+.cardImage {
+  background-image: url("https://imgur.com/RVsb1gj.png") !important;
+}
 .red .card-character {
   background-image: url("https://imgur.com/keXElOt.png") !important;
 }`
