@@ -14,13 +14,13 @@ link.textContent = `.gray .card-character {
   background-image: url("https://imgur.com/xiztCUy.png") !important;
 }
 .blue .card-character {
-  background-image: url("https://imgur.com/sHrF7re.png") !important;
+  background-image: url("https://imgur.com/J8McwoD.png") !important;
 }
 .cardImage {
   background-image: url("https://imgur.com/RVsb1gj.png") !important;
 }
 .red .card-character {
-  background-image: url("https://imgur.com/keXElOt.png") !important;
+  background-image: url("https://imgur.com/Lw0TIo1.png") !important;
 }`
 document.body.appendChild( link );
 
